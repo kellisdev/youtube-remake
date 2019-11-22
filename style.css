@@ -37,7 +37,6 @@ header {
 }
 
 .nav-left a, .nav-right a {
-    text-decoration: none;
     color: #555555;
 }
 
@@ -56,6 +55,7 @@ header {
 
 .icon {
     font-size: 30px;
+    cursor: pointer;
 }
 
 .btn-sign-in {
@@ -65,4 +65,5 @@ header {
     top: -8px;
     background-color: rgba(255, 255, 255, 0);
     color: #0004f0;
+    cursor: pointer;
 }
