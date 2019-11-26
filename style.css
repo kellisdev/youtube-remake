@@ -67,3 +67,37 @@ header {
     color: #0004f0;
     cursor: pointer;
 }
+
+.video-wrap {
+    float: left;
+    width: 65%;
+    display: block;
+}
+
+.main-video {
+    margin: 20px 0 0 100px;
+}
+
+.heading-wrap {
+    margin-left: 100px;
+    border-bottom: 1px solid #777;
+}
+
+.main-heading {
+    font-weight: 100;
+}
+
+.view-count {
+    margin-bottom: 10px;
+}
+
+aside {
+    float: right;
+    display: block;
+    width: 24%;
+}
+
+.up-next-heading {
+    font-weight: 100;
+    font-size: 16px;
+}
